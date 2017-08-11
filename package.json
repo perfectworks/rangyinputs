@@ -2,7 +2,7 @@
   "name": "@fenbi/rangyinputs",
   "version": "1.0.0",
   "description": "Rangy Inputs ============",
-  "main": "rangyinputs-jquery-src.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
