@@ -1,0 +1,19 @@
+{
+  "name": "@fenbi/rangyinputs",
+  "version": "1.0.0",
+  "description": "Rangy Inputs ============",
+  "main": "rangyinputs-jquery-src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfectworks/rangyinputs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perfectworks/rangyinputs/issues"
+  },
+  "homepage": "https://github.com/perfectworks/rangyinputs#readme"
+}
