@@ -1,11 +1,15 @@
 {
   "name": "@fenbi/rangyinputs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Rangy Inputs ============",
-  "main": "main.js",
+  "main": "dist/main.js",
+  "typings": "dist/main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "dist/**"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/perfectworks/rangyinputs.git"
@@ -15,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/perfectworks/rangyinputs/issues"
   },
-  "homepage": "https://github.com/perfectworks/rangyinputs#readme"
+  "homepage": "https://github.com/perfectworks/rangyinputs#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.2.16",
+    "jquery": "^3.2.1",
+    "typescript": "^2.4.2"
+  }
 }
