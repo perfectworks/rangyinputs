@@ -1,15 +1,12 @@
 {
   "name": "@fenbi/rangyinputs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Rangy Inputs ============",
   "main": "dist/main.js",
   "typings": "dist/main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": [
-    "dist/**"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/perfectworks/rangyinputs.git"
